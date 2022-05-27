@@ -1,6 +1,6 @@
 /// < reference types="cypress" />
 
-describe('central de atendimento ao cliente TAT', () => {
+describe('Central de atendimento ao cliente TAT', () => {
     
     beforeEach(() => {
         cy.visit('./cypress/src/index.html')
